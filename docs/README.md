@@ -1,3 +1,3 @@
-# Headline
+# Strona Główna
 
-> An awesome project.
+> Jakis opis.
