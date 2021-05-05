@@ -17,7 +17,7 @@
     * [Użytkownicy i grupy](content/r2/t6.md)
     * [Uprawnienia](content/r2/t7.md)
     * [Procesy](content/r2/t8.md)
-    * [Strumienie i potoki](content/r2/t9.md)
+    * [BONUS - Strumienie i potoki](content/r2/t9.md)
     * [Podsumowanie](content/r2/t10.md)
 
 * Program startowy GRUB
