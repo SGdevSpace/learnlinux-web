@@ -5,8 +5,7 @@
     * [Instalacja Linuxa](content/r1/t3.md)
     * [Struktura katalogów](content/r1/t4.md)
     * [Terminal](content/r1/t5.md)
-    * [Pakiety](content/r1/t6.md)
-    * [Podsumowanie](content/r1/t7.md)
+    * [Podsumowanie](content/r1/t6.md)
 
 * Podstawowe polecenia
     * [Manual](content/r2/t1.md)
