@@ -24,3 +24,5 @@ Projekt jest cały czas rozwijany, a jego kod oraz wszystkie pliki znajdują si�
 
 
 [Przejdź do 1 tematu](/content/r1/t1)
+
+© 2021. Wszelkie prawa zastrzeżone. Właściciel praw intelektualnych: Wojciech Czapkowicz (kontakt@wojciechczapkowicz.pl)
