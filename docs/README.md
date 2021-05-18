@@ -14,10 +14,6 @@ Strona zawiera podstawowe informacje, które się przydadzą przy rozpoczynaniu 
 
 **Rozdział 5 - Archiwizacja i kompresja.** Rozdział ten omawia podstawowe zagadnienia związane z archiwizacją i kompresją, uczy jak tworzyć różne archiwa oraz przeprowadzać na nich różne operacje.
 
-> Ostatnim tematem każdego rozdziału jest podsumowanie.
-
-Znajdziesz w nim "cheat sheet" do omawianych wcześniej tematów, a także zadania praktyczne, aby utrwalić zdobytą wiedze.
-
 > Github projektu
 
 Projekt jest cały czas rozwijany, a jego kod oraz wszystkie pliki znajdują się na [**Githubie**](https://github.com/SGdevSpace/linux-web "Repozytorium").
