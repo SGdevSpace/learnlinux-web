@@ -20,7 +20,6 @@
 * Program startowy GRUB
     * [Czym jest GRUB?](content/r3/t1.md)
     * [Pliki konfiguracyjne](content/r3/t2.md)
-    * [Omówienie grub.cfg](content/r3/t3.md)
 
 * Skrypty
     * [Wstęp](content/r4/t1.md)
