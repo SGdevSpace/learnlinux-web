@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@editorjs/editorjs": "^2.21.0"
+    "@editorjs/editorjs": "^2.21.0",
+    "docsify-copy-code": "^2.1.1"
   }
 }
